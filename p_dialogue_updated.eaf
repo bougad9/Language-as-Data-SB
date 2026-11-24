@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="Simo Boujraf"
+    DATE="2026-11-24T19:15:45+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Simo/Pictures/LAD/Pandemic Dialogue.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../Pictures/LAD/Pandemic Dialogue.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:02815194-d4e1-4d7e-88de-c3f04be14d09</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">169</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="30404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="31869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="31904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="33904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="34803"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="35331"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="35361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="40055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="41647"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="41736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="42226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="42300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="47858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="47905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="52730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="52873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="53720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="59363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="59428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="60797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="60848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="62400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="62730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="67233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="67287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="70595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="71046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="76738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="78857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="80042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="84435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="84472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="85104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="85128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="86662"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="86783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="89090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="89124"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="93294"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="93331"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="93865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="93895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="98582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="98607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="98901"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="98932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="100723"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="100742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="101159"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="101190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="103730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="103850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="106355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="106404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="109957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="109992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="113920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="113988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="114722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="116564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="120693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="121607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="135852"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="135914"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="137680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="137828"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="146957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="147408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="148067"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="148242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="148519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="148957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="153932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="154191"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="154429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="154466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="157077"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="157735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="159970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="160729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="161036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="161195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="164564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="164915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="165704"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="168431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="173909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="177477"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="183262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="183795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="185318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="228300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="229511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="229556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="235964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="236333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="239068"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="239181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="239868"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="239940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="241702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="242654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="246476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="247785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="249750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="250238"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="250869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="253438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="262181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="270000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="270035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="277882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="277905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="281278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="282245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="282639"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="282983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="284245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="284344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="285523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="285868"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="286165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="286464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="292601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="292789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="292833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="293425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="302166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="302250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="307714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="308023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="312214"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="312292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="313828"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="313875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="315409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="315475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="316393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="316504"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="318065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="318089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="322803"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="322852"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="323491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="487105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="494823"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="494917"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="501317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="501373"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="504920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="505313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="516988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="517105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="518823"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="519376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="519647"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="519684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="524717"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Transcription" PARTICIPANT="Fahd" TIER_ID="Fahd">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Kent saken te9riban bou7di.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Kent ana ws7abi: w wa7ed el ex.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>(1.4) Uh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>So, kant 3endi dik el: ↑el 7orriya f el- f el- f dak el- el space li ana fih saken.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>°fa ma kontch m3a 3a2ilti, matalan.°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>((sighs))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Bnesba l kifach 3chtha: ((tsks)) (3.0), sara7a kanet s3iba:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>7it uh: ((tsks)) (0.8) faj2atan 7sit- 7sit belli kolchi tbeddel, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>°fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Matalan ghir dak el i7sas li ma 3merna fekkerna fih, dyal anno ana daba bghit nkhroj (0.4), &gt;dik ↑sa3a welitti katfekker&lt; fi:h.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Ana bghit nkhroj, fin ghanemchi:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Aslan el bolis kano kaydoro:.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Kan 3endna te9riban mora tmenya, wella seb3a yemken ma- &lt;makaneb9awch 9adrin nkhorjo, °mab9itch 3a9el°&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>walakin kanet wa7ed ↑sa3a makan9awch 9adrin nkhorjo mn wraha.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>&gt;↑W 3ad KANO&lt; wa7ed te9riban chi khemseyya::m, kano 7ebsouna ga:3, ↓mankherjouch, &lt;°nhar wsba7 w3chya°&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Kan sir t9edda:, °w khassek teb9a f el dar°.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>So:, 7essit  bel- b el- b el- b wa7ed el- ta9yi:d</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>°Fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>anno ana ma9aderch nekhrej.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>W fach ↑7essit bli ana ma9aderch nkhroj, wellit &gt;BA:GHI nkhroj&lt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>So, 7essit brasi: fwa7ed el ayya:m, (0.6) kent ↑kanl3eb m3a el boli:s</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>°fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Kankhroj, kaybanli el boulis, &gt;wvkanemchi kanhreb&lt;, &lt;wvkaytb3ou:ni&gt;, w kandour men wa7ed derb, w kandkhol ↓l dar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>°fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>&gt;Gha bach n7es brasi ra ana khrej:t&lt;, ra ana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>fhemti?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Breakit hadak el- hadak ta9yid.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>&lt;Wakha kant ze3ma machi ((laughs)), machi fikra zwina</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>7it noremalement kan khasni nemtatel&gt;, ((tsks)) (0.4) l el salama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>&lt;7itach yela 3erdet rasi l el khatar, ra kan3rred 7ta nas li ↓m3aya: (kadalik)&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>W nti?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>°Umm°=</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>So, fhadik el w9ita li kan- kanet fiha Corona, makontich 9adra temchi lhad [el: ()]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>[°Umm°]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>[°ya, 3reft°.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>&lt;°Fhemt, fhemt°&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Wach: 3echti", el- anno chi 7ed matalan men nas el 9rab lik jato Corona?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Ana 3echtha.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>&gt;↑kant s3iba wa7ed chwiya&lt;, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>7itach: eh- katfker, katchof hadak el insan 9eddamk, ma3arftich wach ghadi ymout wella ghayeb9a 7ey, 7it vraiment kanet merdat beza::f</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Katgol &gt;wach ana, ta ↑ana, ghantbe3ha&lt;, wach 7ta ana ghanemred b7al haka?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>°fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Kanet chwya s3iba:.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>Kent kan7es:: (1.2) chwy:a &gt;b el khowf&lt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>W kent kan7es b el khowf 7ta 3liha hiya,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>°fhemti°?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>°Li anno: kent khayef la ↓tow9e3 liha chi 7aja dik sa3a°.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>[El weswa:s.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>[Ya:]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>Mametafe9ch m3ak &gt;7itach:&lt; uh &gt;kano nas kaymo:to&lt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>7itach chno ghaykebbrou mazal kter.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>Kano nas kaymoutou:,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>ye3ni, fhemti:?,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
+                TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>ra: uh kan mochkil kbir.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>Noremalement makanch ghi wa7ed el- wa7ed el 7aja li dazet, ra kanet wa7d el 7aja li dat m3aha arwa:7.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123"
+                TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>°fhemti?°</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+                <ANNOTATION_VALUE>Kandon hada nefs el: el i7sas li ghaykon ze3ma, machi bnefs tari9a, walakin ghir le: jder dyalou:, fach matalan chi blad nas kaykonou 3aychin fiha am:an, w kolchi mezyan, w faj2a katweli 3endhom el 7erb.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>[NO NO.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>Kan9sed anno ghir dak, we7d el, kaykoun wa7ed el ist9ra:r, ba3idan 3an el isti9rar el 3amm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Transcription" PARTICIPANT="Suren" TIER_ID="Suren">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Ana: 3echtha ↓f fes, kent ba9a ↓kane9ra.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>&gt;Sara7a d ellah&lt;, (1.5) b- (1.2) ana b el nisba l 3endi ka che:khs (1.0), w kachekhsiya: (2.0) w ka- (1.8) ntiwa2iya, 3jebni el 7al, sara7a d ellah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>((laughs)) ().</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Walakin, wlakin men na7iya wekhra (0.8), ((clears throat)) makontch 9adra netla9a bnas li kent kan7s m3ahom b a7asis zwina.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>=°Ya°.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>[Exactly]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>7ita:ch sfer [k:an], (1.5) w kano 9iydo el 7oriya dyal safar [()]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Wnas makanentch kate9der tsafer (), exactly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>I think, nas li kona kandwiw m3ahom f telephone whaka, walakin ze3matik f el mo7id el mobachir dyali, la:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>W had el blan d el khowf, fkertini 7ta f el meghrib mli kont kanmechi kan:- (3.0) k- (1.5) kant9edda.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>Melli kanemchi kant9edda wkanjib t9edya l el dar, khesni neb9a: (1.3) neghselha f el ma w n3awed nghsel, w n3awed, w nrech w n3awed.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>Ka:n (1.0), w kan jani wa7ed no3 dyal:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>chno nsmiweh?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE> men ghir el kho:wf:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>(0.4) [e:l weswas.]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>Kan jani wa7ed el weswas anna:-(h), 3en- 3endak nemchi net3ada, 3nedak hadi:, 3endak hadik:.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>We7- walakin:, 7et el khitab d el media: (1.0), eh - (0.5) kanden anaho:, kebrou el mowdou3 kter men ma ↓kaysta7e9.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>Wella - wella (3.0) e- ((stutters)) (0.9) wella ghi ra2y chekhsi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>Wkanden anna el anxiety (0.4) li 3tatni Covid, mazala:, mazala mkhelyani kan3ich °el khowf, stress°.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>Ye3ni, (2.8), mazal maken7sch anaho kolchi safe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>annaho f ay le7da momkin kolchi 3awd yetkherbe9.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>Wmali ana kont 3aycha f el [aman? ((laughter))]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Fahd" PARTICIPANT="Fahd" TIER_ID="Fahd_English">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>I was living more or less alone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I lived with my friends:, and one of my exes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>(1.4) Uh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>So, I enjoyed that: ↑freedom in the- in the- in that the- the space where I was living.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>°in that I wasn't with my family, for example°.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>((sighs))</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>As for how I experienced it: ((tsks)) (3.0), honestly, it was difficult:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>because uh: ((tsks)) (0.8) suddenly I fe- I felt that everything had changed</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>For example, just that feeling that we'd never thought about before, that impulse to go out (0.4), &gt; ↑At that time, you would start thinking&lt; about it:.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>You would think I want to go out, where can I go:.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>In any case, the police were patrolling:.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>After eight, or seven maybe we cou- &lt;we couldn't go out, °I don't remember°&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>but there was a ↑time after which we couldn't go out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>&gt;↑And then there WERE&lt; about five da::ys, in which we were a:ll locked in, ↓we couldn't go out, &lt;°day and morning and evening°&gt;.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>You go grocery shopping:, °and you have to stay at home°.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>So:, I felt a- a- a- a kind of- restri:ction,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>that I couldn't go out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>And when I ↑felt I couldn't go out, I started &gt;WA:NTING to go out&lt;.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>So,for a few da:ys, I felt (0.6) that I was ↑playing with the poli:ce,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>I'd go out, I'd see the police, &gt;I'd run away&lt;, &lt;they'd chase me:&gt;, I'd go around through an alley, and I'd go ↓home.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>&gt;just so I could feel that I've go:ne out&lt;, that I-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>do you understand?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>broke that the- that restriction.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>&lt;Although it was, so to speak, not ((laughs)), not a good idea,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>because normally I had to comply&gt;, ((tsks)) (0.4) for safety</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>&lt;because if I exposed myself to risk, I would be also exposing people who were ↓with me: (as well)&gt;.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>And you?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>°Umm°=</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>So, at that time when wa- there was Corona, you couldn't go to [this: ()]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>[°Umm°]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>[°yeah, I know°.]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>°I got it, I got it°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>Did you: experience", the- that someone, for example, among those close to you caught COVID?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>I did experience it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>&gt;↑It was a little difficult&lt;, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>because: eh- you think, you see that person in front of you, you don't know whether they're going to die or they'll stay alive, because she really got ve::ry sick.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>You think &gt; am I, myself too, am I going to catch it&lt;, will I get sick like that as well,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>It was a little difficult:.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>I was feeling:: (1.2) a litt:le &gt;afraid&lt;.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>And I was similarly feeling afraid for her herself,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>°Meaning tha:t I was afraid something might ↓happen to her at that time°.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>[Obsessive thou:ghts.]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>[Yeah:]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I don't agree with you &gt;because:&lt; &gt;people were dy:ing&lt;.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>because, how could they over-exagerate it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>People were dying:,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>I mean, do you understa:nd?,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>It was a big problem.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>In that it wasn't just one- one passing event, it was an event that took li:ves with it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>°do you understand?°</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>I think this is the same the: the feeling of, so to speak, not in the same way, but just the: root of it:, when for example in some country, people are living sa:fely, and everything is fine, and suddenly war breaks out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>[NO NO.]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>I mean that, just that, a kind of-, there tends to be a kind of- stabi:lity, apart from the general stability.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Suren" PARTICIPANT="Suren" TIER_ID="Suren_English">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>I: experienced it ↓in Fez, I was still ↓studying.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>&gt;Honestly by God&lt;, (1.5) fo- (1.2) me, for me, as a per:son (1.0), and as a personality: (2.0) and as- (1.8) an introvert, I liked it, honestly by God</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>((laughs)) ().</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>But, but on the other hand (0.8), ((clears throat)) I couldn't meet people with whom I used to share good feelings.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>=°Yeah°.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>[Exactly]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>because: travelling [wa:s], (1.5) and they had restricted the freedom of travel [()]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>And people couldn't travel (), exactly.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>I think, people with whom we would speak on the phone did get infected, but no one of the people in my immediate social circle did.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Speaking of fear, you reminded me when in Morocco I used to go I d:- (3.0) I d- (1.5) do the shopping.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>When I went shopping and brought the groceries home, I had to keep: (1.3) washing it with water over and over again, and again, and repeatedly spray it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>I had (1.0), and I developped a kind o:f</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>(2.0), what do we call it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a128">
+                <ANNOTATION_VALUE>besides the fea:r:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a129">
+                <ANNOTATION_VALUE>(0.4) [obsessive thoughts]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>I had these obsessive thoughts tha:-(h), I had to watch out from getting infected; watch out for this:, watch out for that:.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>And Eve- but:, Even the discourse of the media: (1.0), eh - (0.5) I think tha:t, they made the issue bigger than it ↓deserved</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Or - or (3.0) e- e- (0.9) or is it just my personal opinion.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>And I think that the anxiety (0.4) I got from Covid:, is still making me live with °fear, stress°.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>I mean, (2.8), I still don't feel that everything is safe.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>that at any moment everything could again fall apart.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Do I look like I was living in [safety? ((laughter))]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Transcription" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
